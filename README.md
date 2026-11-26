@@ -116,7 +116,10 @@ Projeto-Transporte/
 │       ├── stops.txt
 │       ├── stop_times.txt
 │       └── shapes.txt                  # opcional: trajetos oficiais
-├── note_principal.ipynb                # notebook principal
+├──notebook/
+│   ├── note_principal.ipynb                # notebook principal
+│    ├── note_principal_guia.ipynb           # notebook principal porém com código comentado 
+│
 └── README.md                           # documentação (português e inglês)
 ```
 
